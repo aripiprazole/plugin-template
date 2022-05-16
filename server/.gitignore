@@ -1,0 +1,8 @@
+*
+!plugins
+!bukkit.yml
+!commands.yml
+!spigot.yml
+!paper.yml
+!.gitignore
+!resourcepack.zip
